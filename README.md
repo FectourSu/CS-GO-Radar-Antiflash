@@ -3,7 +3,7 @@
 <h3>The author of the parser 👉 https://github.com/TheWayToJunior<h3>
 
 <h3>
-  Instruction 📋
+  <p align ="center">Instruction 📋 </p>
 <ol>
 <li>Compiling CS:GO Launcher & CS:GO bspotted Radar in release vesrion 🔨</li>
 <li>Go to CodyCSGO bSpotted Radar1\СS_GO_Launcher\Release 💨</li>
@@ -14,6 +14,7 @@
 
 <li>Cheat activated have a nice game 💻</li>
 </ol>
+</h3>
 <p align = "right">
 P.S. A cheat that is difficult to detect vac 🚔 
 </p>
