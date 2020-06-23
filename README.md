@@ -2,8 +2,8 @@
 <h1>AUTO-UPDATED CHEAT FOR CS:GO ⚡<h1>
 <h3>The author of the parser 👉 https://github.com/TheWayToJunior<h3>
 
-<h2>Instruction 📋<h2>
 <h3>
+  Instruction 📋
 <ol>
 <li>Compiling CS:GO Launcher & CS:GO bspotted Radar in release vesrion 🔨</li>
 <li>Go to CodyCSGO bSpotted Radar1\СS_GO_Launcher\Release 💨</li>
