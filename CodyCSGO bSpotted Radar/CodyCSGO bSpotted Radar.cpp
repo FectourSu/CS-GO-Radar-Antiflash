@@ -24,21 +24,6 @@ struct variables
 } val;
 
 
-const string currentDateTime() {
-	time_t     now = time(0);
-	struct tm  tstruct;
-	char       buf[80];
-	tstruct = *localtime(&now);
-	strftime(buf, sizeof(buf), "%Y-%m-%d", &tstruct);
-
-	return buf;
-}
-
-bool if_empty(std::ifstream& pFile)
-{
-	return pFile.peek() == std::ifstream::traits_type::eof();
-}
-
 int main()
 {
 	setlocale(LC_ALL, "RUS");
