@@ -23,6 +23,10 @@ struct variables
 	DWORD gameModule;
 } val;
 
+string Message()
+{
+	return "Hello world";
+}
 
 int main()
 {
