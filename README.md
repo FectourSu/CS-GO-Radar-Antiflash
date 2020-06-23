@@ -1,6 +1,6 @@
 # CS-GO-RadarHack-Antiflash
 <h1>AUTO-UPDATED CHEAT FOR CS:GO ⚡
-<h3>The author of the parser 👉 https://github.com/TheWayToJunior<h3>
+<h3 border-bottom: 0px>The author of the parser 👉 https://github.com/TheWayToJunior<h3>
   </h1>
 <h3>
 <p align ="center">Instruction 📋 </p>
