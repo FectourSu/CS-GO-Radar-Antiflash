@@ -6,7 +6,7 @@
 
 <ol>
 <li>Compiling CS:GO Launcher & CS:GO bspotted Radar in release vesrion 🔨</li>
-<li>Go to CodyCSGO bSpotted Radar1\СS_GO_Launcher\Release 💨</li>
+<li>Go to CodyCSGO bSpotted Radar1\СS_GO_Launcher\СS_GO_Launcher\bin\Release 💨</li>
 <li>Run CS:GO launcher.exe 🌌</li>
 <li>Open file CodyCSGO bSpotted Radar1\Release\CodyCSGO bSpotted Radar.exe in FileDialog 📁</li>
  <li> Result autoupdated cheat: ⭐</li>
