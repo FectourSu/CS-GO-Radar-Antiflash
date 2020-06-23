@@ -23,11 +23,6 @@ struct variables
 	DWORD gameModule;
 } val;
 
-string Message()
-{
-	return "Hello world";
-}
-
 int main()
 {
 	setlocale(LC_ALL, "RUS");
