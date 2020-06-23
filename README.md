@@ -4,7 +4,6 @@
 
 <h3>
   Instruction 📋
-  <h2>
 <ol>
 <li>Compiling CS:GO Launcher & CS:GO bspotted Radar in release vesrion 🔨</li>
 <li>Go to CodyCSGO bSpotted Radar1\СS_GO_Launcher\Release 💨</li>
@@ -15,8 +14,6 @@
 
 <li>Cheat activated have a nice game 💻</li>
 </ol>
-</h2>
-</h3>
 <p align = "right">
 P.S. A cheat that is difficult to detect vac 🚔 
 </p>
