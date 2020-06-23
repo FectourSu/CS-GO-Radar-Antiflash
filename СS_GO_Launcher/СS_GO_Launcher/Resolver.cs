@@ -23,7 +23,7 @@ namespace СS_GO_Launcher
         private static Assembly OnResolve(object sender, ResolveEventArgs args)
         {
             Assembly execAssembly = Assembly.GetExecutingAssembly();
-            string resourceName = String.Format("{0}.{1}.dll",
+            string resourceName = String.Format("{0}.Dependencies.{1}.dll",
                 execAssembly.GetName().Name,
                 new AssemblyName(args.Name).Name);
 
