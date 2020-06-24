@@ -10,11 +10,9 @@
   <li>Run CS:GO launcher.exe 🌌</li>
   <li>Open file CodyCSGO bSpotted Radar1\Release\CodyCSGO bSpotted Radar.exe in FileDialog 📁</li>
    <li> Result autoupdated cheat: ⭐</li>
-   <li>
       <br>
       <img src="FirstScreen.png" width="600px" height="350px"/> 
       <br>
-   </li>
   <li>Cheat activated have a nice game 💻</li>
   </ol>
 </h3>
